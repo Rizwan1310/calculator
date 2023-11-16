@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    justify-content: center;
+    color: rgb(11, 20, 20);
+    font-size: xx-large;
+    font-style: italic;
+    padding: 5px;
+    margin: 50px;
+    background-color: lightcyan;
+}
+
+button{
+    width: fit-content;
+    color: rgb(11, 8, 2);
+    background-color: antiquewhite;
+}
+input{
+    color: navy;
+    border-color: blueviolet;
+    font-variant-numeric: lining-nums;
+}
